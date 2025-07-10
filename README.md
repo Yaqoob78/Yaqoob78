@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Yaqoob78
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning ...
--  I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Yaqoob Khan
 
-<!---
-Yaqoob78/Yaqoob78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Passionate about programming, AI, and building useful things.  
+💻 Currently learning full-stack development and sharpening my CS fundamentals.  
+⚙️ Exploring Python, C++, web development, and Git.  
+📍 From India | Always pushing limits.  
+
+<!-- Let the code speak. -->
+
